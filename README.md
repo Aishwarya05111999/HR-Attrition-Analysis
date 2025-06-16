@@ -1,1 +1,1 @@
-# HR-Attrition-Analysis
+This project provides an Excel-based HR Attrition Analysis with insights into employee turnover across roles, departments, education levels, and age groups. It includes visual comparisons between attrition counts and current employee numbers to help identify patterns and support data-driven HR decisions.
